@@ -1,0 +1,21 @@
+.carousel-inner img {
+    width: 1000px;
+    height: 650px;
+  }
+
+body {
+    background-color: black;
+  }
+
+#nav {
+    background-color: #59626A;
+}
+
+#li {
+    color: white;
+}
+
+h4 {
+  font-family: 'Fauna One', serif;
+  font-size: 16px;  
+}
